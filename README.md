@@ -1,4 +1,4 @@
-# Documentation for ANN - Car Sales Price Prediction Notebook
+
 
 ## Overview
 This Jupyter Notebook demonstrates the implementation of an Artificial Neural Network (ANN) to predict car sales prices. The pipeline includes data preprocessing, model building, training, evaluation, and predictions on new data.
